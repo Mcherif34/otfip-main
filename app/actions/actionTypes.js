@@ -1,0 +1,27 @@
+// - LOGIN
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const LOGIN = 'LOGIN';
+export const LOGIN_START = 'LOGIN_START';
+//APPLICATION
+export const CHANGE_THEME = 'CHANGE_THEME';
+export const CHANGE_FONT = 'CHANGE_FONT';
+export const FORCE_APPEARANCE = 'FORCE_APPEARANCE';
+export const CHANGE_LANGUAGE = 'CHANGE_LANGUAGE';
+export const SET_MENU = 'SET_MENU';
+export const SET_INTRO = 'SET_INTRO';
+export const SET_COLLECTIONS = 'SET_COLLECTIONS';
+export const SET_ANNOUNCEMENT = 'SET_ANNOUNCEMENT';
+export const SET_DATASETS = 'SET_DATASETS';
+export const SET_DOCUMENTS = 'SET_DOCUMENTS';
+export const SET_NEWS = 'SET_NEWS';
+export const SET_TAGS = 'SET_TAGS';
+export const SET_DATAS = 'SET_DATAS';
+export const SET_ATTRIBUTES = 'SET_ATTRIBUTES';
+export const SET_METADATA = 'SET_METADATA';
+export const SET_FAVOURITE = 'SET_FAVOURITE';
+export const SET_PUBLICATION = 'SET_PUBLICATION';
+export const SET_DOCUMENT_TYPES = 'SET_DOCUMENT_TYPES';
+export const SET_DOCUMENT_VIDEOS = 'SET_DOCUMENT_VIDEOS';
+export const SET_AUTHORS = 'SET_AUTHORS';
+export const SET_RESOURCES = 'SET_RESOURCES';
