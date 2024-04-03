@@ -19,7 +19,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.brainit.otfip",
-      "buildNumber" : "1"
+      "buildNumber": "1"
     },
     "android": {
       "adaptiveIcon": {
@@ -40,6 +40,11 @@
           }
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a24b9021-1c86-4c63-8d7a-464d2288a74a"
+      }
+    }
   }
 }
